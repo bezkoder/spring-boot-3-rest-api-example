@@ -23,6 +23,10 @@ Front-end that works well with this Back-end
 
 > [Angular 15 Client](https://www.bezkoder.com/angular-15-crud-example/)
 
+> [Angular 16 Client](https://www.bezkoder.com/angular-16-crud-example/)
+
+> [Angular 17 Client](https://www.bezkoder.com/angular-17-crud-example/)
+
 > [Vue 2 Client](https://www.bezkoder.com/vue-js-crud-app/)
 
 > [Vue 3 Client](https://www.bezkoder.com/vue-3-crud/)
@@ -79,6 +83,10 @@ Fullstack:
 > [Angular 14 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-14-crud/)
 
 > [Angular 15 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-15-crud/)
+
+> [Angular 16 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-16-crud/)
+
+> [Angular 17 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-17-crud/)
 
 > [React + Spring Boot + MySQL example](https://www.bezkoder.com/react-spring-boot-crud/)
 
